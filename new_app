@@ -1,0 +1,12 @@
+{
+    "android": 
+    {
+       	"title": "Goblin Defenders 2",
+       	"link": "market://details?id=com.ShpagaGames.GoblinDefenders2GP"
+    },
+    "ios": 
+    { 
+        "title": "Goblin Defenders 2",
+        "link": "itms-apps://itunes.apple.com/th/app/goblin-defenders-2/id815503968"
+    }
+} 
