@@ -1,0 +1,8 @@
+{
+    "ios": 
+    { 
+        "title": "test",
+        "link": "itms-apps://itunes.apple.com/app/id1015692776"
+        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/test.png"
+    }
+}
