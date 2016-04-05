@@ -1,3 +1,8 @@
 {
-    
+    "android": 
+    { 
+        "title": "Doodle Bomber",
+        "link": "market://details?id=com.RaX_C.doodle_boomber",
+        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/new.png"
+    }
 }
