@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <android>
+        <App1 title="Magic Cube Puzzle 3D" link="market://details?id=com.maximko.cuber" image="https://raw.githubusercontent.com/ololomax/myrepo/master/new.png"/>
+        <App2 title="Doodle Bomber" link="market://details?id=com.RaX_C.doodle_boomber" image="https://raw.githubusercontent.com/ololomax/myrepo/master/test.png"/>
+    </android>
+    <ios> 
+        <App1 title="Internets" link="itms-apps://itunes.apple.com/app/id911550133" image="https://raw.githubusercontent.com/ololomax/myrepo/master/test.png"/>
+        <App2 title="Magic Cube Puzzle 3D" link="itms-apps://itunes.apple.com/app/id1015692776" image="https://raw.githubusercontent.com/ololomax/myrepo/master/new.png"/>
+    </ios>
+</root>
