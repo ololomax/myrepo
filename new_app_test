@@ -4,5 +4,11 @@
         "title": "com.maximko.cuber",
         "link": "market://details?id=com.RaX_C.doodle_boomber",
         "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/new.png"
+    },
+    "ios": 
+    { 
+        "title": "test",
+        "link": "itms-apps://itunes.apple.com/app/id1015692776"
+        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/test.png"
     }
 }
