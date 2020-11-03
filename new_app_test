@@ -1,10 +1,4 @@
 {
-    "android": 
-    { 
-        "title": "com.maximko.egg",
-        "link": "market://details?id=com.maximko.egg",
-        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/egg.png"
-    },
     "ios": 
     { 
         "title": "com.maximko.cube.china",
