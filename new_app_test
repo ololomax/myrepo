@@ -1,14 +1,14 @@
 {
     "android": 
     { 
-        "title": "com.maximko.egg",
-        "link": "market://details?id=com.maximko.egg",
+        "title": "com.maximko.trouble",
+        "link": "market://details?id=com.maximko.trouble",
         "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/egg.png"
     },
     "ios": 
     { 
-        "title": "com.maximko.cube.china",
-        "link": "itms-apps://itunes.apple.com/app/id1520789514",
+        "title": "com.maximko.trouble",
+        "link": "itms-apps://itunes.apple.com/app/id1552882657",
         "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/china.png"
     }
 }
