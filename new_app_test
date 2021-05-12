@@ -3,12 +3,14 @@
     { 
         "title": "com.maximko.trouble",
         "link": "market://details?id=com.maximko.trouble",
-        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/egg.png"
+        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/egg.png",
+        "countries": []
     },
     "ios": 
     { 
         "title": "com.maximko.trouble",
         "link": "itms-apps://itunes.apple.com/app/id1552882657",
-        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/china.png"
+        "image": "https://raw.githubusercontent.com/ololomax/myrepo/master/china.png",
+        "countries": []
     }
 }
